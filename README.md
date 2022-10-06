@@ -14,7 +14,7 @@ Remplissez sa :
 
 Ensuite ouvrez Module et attendez.
 
-Pour allumer le bot telecharger node.js et marquer cmd dans la barre du dossier puis marquer “node index”
+Ensuite ouvrez "start"
 
 
 #Pour besoin d'aide : https://discord.gg/QZRHEHFGsv
